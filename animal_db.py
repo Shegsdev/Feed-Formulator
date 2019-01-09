@@ -1,0 +1,57 @@
+animal_db = {
+    "Broiler":{
+         "Finisher":{
+
+            "Fat":{
+                "Min":40,
+                "Max":50
+            },
+            "Protein":{
+                "Min":40,
+                "Max":50
+            },
+            "Carbohydrate":{
+                "Min":40,
+                "Max":50
+            },
+            "Phosphorus":{
+                "Min":40,
+                "Max":50
+            },
+            "Lysine":{
+                "Min":40,
+                "Max":50
+            },
+            "Salt":{
+                "Equal":23
+            }
+        },
+
+        "Starter":{
+
+            "Fat":{
+                "Min":40,
+                "Max":50
+            },
+            "Protein":{
+                "Min":40,
+                "Max":50
+            },
+            "Carbohydrate":{
+                "Min":40,
+                "Max":50
+            },
+            "Phosphorus":{
+                "Min":40,
+                "Max":50
+            },
+            "Lysine":{
+                "Min":40,
+                "Max":50
+            },
+            "Salt":{
+                "Equal":23
+            }
+        }
+    }
+}
